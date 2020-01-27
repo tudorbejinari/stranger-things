@@ -24,7 +24,8 @@ const processResponse = response => {
   };
 
   obj[id].episodes = episodes;
-
+//I left the console log just you to see the results while testing is not working properly
+//I have to console log because console.log obj will display the episode but in short format [Object][Object] while is too much info
   console.log(obj)
   console.log(obj[id].episodes);
 
