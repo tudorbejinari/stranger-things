@@ -12,3 +12,5 @@
 * Once you have the necessary files to run app, enter node app.js
 * For testing enter jasmine app-test.js
 ## You'll see the following:
+![app](https://github.com/tudorbejinari/stranger-things/blob/master/show.png)
+![app](https://github.com/tudorbejinari/stranger-things/blob/master/episodes.png)
